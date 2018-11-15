@@ -13,7 +13,7 @@ post_date: 2018-11-15 18:00:32
 </b><strong>2. Paypal </strong> - ( Additional 3.4% + Php15 transaction fee on checkout page )
 <img class="alignnone size-full wp-image-23113" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/paypal.png" alt="" width="55" height="20" />
 <strong>3. Credit and Debit Card</strong> - ( Additional 3.4% + Php15 transaction fee on checkout page )
-<img class="alignnone  wp-image-23126" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/visa.png" alt="" width="49" height="29" />     <img class="alignnone  wp-image-23109" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/mastercard.png" alt="" width="48" height="29" />     <img class="alignnone wp-image-23128" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/maestro-1-e1542278064388.png" alt="" width="49" height="33" />     <img class="alignnone wp-image-23104" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/jcb.png" alt="" width="56" height="39" />     <img class="alignnone wp-image-23090" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/american-express-e1542278223598-300x191.png" alt="" width="67" height="39" />
+<img class="alignnone wp-image-23126" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/visa.png" alt="" width="49" height="29" />     <img class="alignnone wp-image-23109" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/mastercard.png" alt="" width="48" height="29" />     <img class="alignnone wp-image-23128" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/maestro-1-e1542278064388.png" alt="" width="49" height="33" />     <img class="alignnone wp-image-23104" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/jcb.png" alt="" width="56" height="39" />     <img class="alignnone wp-image-23090" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/american-express-e1542278223598-300x191.png" alt="" width="67" height="39" />
 processed via Paypal**<a href="https://docs.google.com/document/d/1CxTCSTBjsyziFILmU4O3nNlIvL0Yqm2pZ78eznb21gM/edit" target="_blank" rel="noopener"> Convert Credit Cart transactions to Installment payments</a>
 
 *Should you wish to pay us using a credit card, you may be required to send us a photocopy of the credit card together with a valid ID of the card owner. This measure is done for verification purposes only, in accordance to Philippine Payment Gateways’ fraud prevention scheme.
@@ -111,8 +111,8 @@ Please be reminded that we are implementing <strong>one deposit slip</strong> pe
  	<li>Branch code (refer to the deposit slips below)</li>
  	<li>Amount deposited
 Sample Cash Transaction Slip
-<img class="bdo-slip" src="https://www.galleon.com.ph/assets/images/cash_slip_new.jpg" />
-Sample Check Transaction Slip <img class="bdo-slip" src="https://www.galleon.com.ph/assets/images/check_slip_new.jpg" /></li>
+<img class="alignnone size-full wp-image-23095" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/cash_slip_new.jpg" alt="" width="1461" height="728" />
+Sample Check Transaction Slip <img class="alignnone size-full wp-image-23097" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/check_slip_new.jpg" alt="" width="1451" height="710" /></li>
 </ol>
 </li>
  	<li>Email us a scanned copy or photo of your deposit slip to support@galleon.ph with your order number as the subject line</li>
