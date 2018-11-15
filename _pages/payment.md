@@ -24,10 +24,7 @@ processed via Paypal**<a href="https://docs.google.com/document/d/1CxTCSTBjsyziF
 <img class="alignnone size-full wp-image-23099" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/dragonpay.png" alt="" width="250" height="75" />
 <strong>Supported Channels</strong>:Please click on the images to view branches
 <ul class="dragonpay-channels clearfix">
- 	<li style="list-style-type: none;"></li>
-</ul>
-<ul class="dragonpay-channels clearfix">
- 	<li style="list-style-type: none;"></li>
+ 	<li style="list-style-type: none;"><img class="alignnone  wp-image-23093" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/bpi.jpg" alt="" width="65" height="66" />       <img class="alignnone  wp-image-23111" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/metrobank.jpg" alt="" width="142" height="72" />       <img class="alignnone  wp-image-23098" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/chinabank.png" alt="" width="62" height="62" />     <img class="alignnone  wp-image-23124" src="https://www.galleon.com.ph/wp-content/uploads/2018/11/unibank.png" alt="" width="105" height="45" /></li>
 </ul>
 <ul class="dragonpay-channels clearfix">
  	<li style="list-style-type: none;"></li>
