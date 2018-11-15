@@ -179,6 +179,84 @@ Convert Card payments to Installment, see more details here:
 https://docs.google.com/document/d/1CxTCSTBjsyziFILmU4O3nNlIvL0Yqm2pZ78eznb21gM/edit
 
 <strong>5) Paypal</strong> - ( Additional 3.4% + Php15 transaction fee on checkout page )
-[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][vc_column width="1/2" css=".vc_custom_1534495331601{margin-left: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.25rem !important;padding-right: 1.25rem !important;padding-bottom: 1.25rem !important;padding-left: 1.25rem !important;background-color: #ffffff !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}" klb_responsive=".vc_custom_1534495331604{margin-right: 0px !important;margin-left: 0px !important;}" el_class="faq" offset="vc_col-lg-5 vc_col-md-5"][vc_custom_heading text="Ask us a question" font_container="tag:h5|font_size:18|text_align:left" use_theme_fonts="yes" css=".vc_custom_1534495168730{margin-bottom: 14px !important;}"][contact-form-7 id="214"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1533636970064{border-top-width: 1px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #ffffff !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column width="1/3" klb_responsive=".vc_custom_1534495399990{margin-bottom: 15px !important;}"][icon_box type="materialdesign" title="Free &amp; Next Day Delivery" contentm="Lorem ipsum dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-truck-fast"][/vc_column][vc_column width="1/3" klb_responsive=".vc_custom_1534495407796{margin-bottom: 15px !important;}"][icon_box type="materialdesign" title="100% Satisfaction Guarantee" contentm="Rorem Ipsum Dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-basket"][/vc_column][vc_column width="1/3"][icon_box type="materialdesign" title="Great Daily Deals Discount" contentm="Lorem ipsum dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-tag-heart"][/vc_column][/vc_row]
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Can I change my mode of payment?" tab_id="1542292768475-8ab209ab-fecc"][vc_column_text]If the payment has not been made, you can change the payment method. Please call us to facilitate and manually change it to how it will be convenient.[/vc_column_text][/vc_tta_section][vc_tta_section title="Do you accept payments via Cash on Delivery (COD)?" tab_id="1542292807295-293f1f7c-c419"][vc_column_text]Yes, we only allow Cash on Delivery for orders with a maximum grand total of PHP 20,000 and below and shipping location is Nationwide.
+
+Choose Cash on delivery payment method at the checkout page. Then you must confirm your COD order by replying to the order confirmation email or other means.
+
+It is allowable for all kinds of orders in Galleon except for via Sea shipping.[/vc_column_text][/vc_tta_section][vc_tta_section title="What are the modes of payment that Galleon.ph offers?" tab_id="1542292875907-aedd7f4c-b367"][vc_column_text]<strong>We accept different types of payment:</strong>
+
+<strong>1) Bank Deposit</strong>
+
+Account name: STERLING GALLEON CORP.
+Account number: 001458019167 (PESO ACCOUNT)
+
+<strong>2) Dragonpay</strong> : (Additional P20.00 transaction fee at checkout )
+Supported Channels: BDO (Over-the-Counter, ATM Internet Banking, ATM) , BPI ExpressOnline/Mobile, Metrobank (Direct, Over-the-Counter), Chinabank (Online,Over-the-Counter,ATM), Unionbank (EON, Internet Banking, ATM, Over-the-Counter), RCBC (AccessOne, Over-the-Counter, ATM), UCPB (Connect, Over-the-Counter, ATM), EastWest Bank Over-the-Counter, Landbank Over-the-Counter, PNB (Over-the-Counter, ATM, E-Banking), Maybank (Over-the-Counter, ATM, E-Banking), RobinsonsBank (Over-the-Counter, E-Banking), Security Bank (Bank OTC, Bank ATM, Bank Online), Sterling Bank (Bank Over-the-Counter, Bank E-Banking), LBC, SM Payment Counters (Department Store, Supermarket, Savemore Counter), M. Lhuillier, Robinsons Dept. Store, Cebuana Lhuillier, Gcash, ECPay (Collection Partners, Petron with ECPay) <a href="http://blog.dragonpay.ph/2013/12/dragonpay-integrates-with-ecpay.html" target="_blank" rel="noopener noreferrer">http://blog.dragonpay.ph/2013/12/dragonpay-integrates-with-ecpay.html</a>, Bayad Center
+
+<strong>3) International</strong> - we support PNB Remit, Ventaja/PayRemit (which includes most of Metrobank Remittance branches abroad, and Skyfreight which covers Saudi). Click here for more information: <a href="https://www.dragonpay.ph/ventaja-payremit-how-to" target="_blank" rel="noopener noreferrer">https://www.dragonpay.ph/ventaja-payremit-how-to</a>
+
+<strong>4) Credit and Debit Card</strong> - Visa, Master Card, Maestro, JCB, American Express processed via Paypal**
+Convert Card payments to Installment, see more details here:
+<a href="https://docs.google.com/document/d/1CxTCSTBjsyziFILmU4O3nNlIvL0Yqm2pZ78eznb21gM/edit" target="_blank" rel="noopener noreferrer">https://docs.google.com/document/d/1CxTCSTBjsyziFILmU4O3nNlIvL0Yqm2pZ78eznb21gM/edit</a>
+
+<strong>5) Paypal</strong> - ( Additional 3.4% + Php15 transaction fee on checkout page )
+
+<strong>6) Cash upon Pick-up</strong> - allowable for orders with a maximum grand total of PHP20,000 and below. Orders will be picked-up to Galleon's office.
+
+<strong>7) Cash on Delivery</strong> - allowable for orders with a maximum grand total of PHP20,000 and below. Shipping location is now Nationwide.[/vc_column_text][/vc_tta_section][vc_tta_section title="I already made my payment, what's the next step?" tab_id="1542292992885-f88eb0fc-4175"][vc_column_text]For BDO deposits, please be reminded that we are implementing one deposit slip per transaction policy. After each successful deposit, you have 2 options: Email the deposit slip or send the Deposit slip details. Read more here www.galleon.ph/document/payment
+
+For Dragonpay (Banks, Pawn shops, SM, Robinson, LBC, ECpay), credit/debit
+card and Paypal, you don't need to do anything but you can also inform us that you have made payment via email, call or SMS.
+
+Once payment has been confirmed, your order status should change to "Payment Received" or "Processing Order". From here, we will update you on the ETA (estimated time of arrival) of the item.[/vc_column_text][/vc_tta_section][vc_tta_section title="Do I need a PayPal account to pay via Credit Card or Debit Card?" tab_id="1542293102085-f804498c-474f"][vc_column_text]No you don't. Think of PayPal as a credit card terminal only online. You just need to swipe or in this case enter your card details into the secure PayPal payment page
+
+If you have a PayPal account you can use your balance there to pay.[/vc_column_text][/vc_tta_section][vc_tta_section title="When I pay through credit card, do you offer installment? 3 months? 6 months? 12 months?" tab_id="1542293170517-6243ad7f-850c"][vc_column_text]As we work on providing as many installment terms of different credit card providers, we have meanwhile compiled a list of banks that allow you to convert your online purchases on www.galleon.ph from your credit card into easy 3, 6, 12, 18, and 24 month installment terms. Kindly refer to the links of each bank to understand more about how they compute the rates as well as how to apply.
+
+BDO
+<ul>
+ 	<li><a href="https://www.bdo.com.ph/jp/node/26599/easy-convert-online-shopping">https://www.bdo.com.ph/jp/node/26599/easy-convert-online-shopping</a></li>
+ 	<li><a href="https://www.bdo.com.ph/personal/credit-cards/mastercard/bdo-installment-card">https://www.bdo.com.ph/personal/credit-cards/mastercard/bdo-installment-card</a></li>
+</ul>
+BPI
+<ul>
+ 	<li>Credit to Cash <a href="https://www.bpiexpressonline.com/p/2/723/credit-to-cash">https://www.bpiexpressonline.com/p/2/723/credit-to-cash</a></li>
+</ul>
+Metrobank
+<ul>
+ 	<li>Credit to Cash <a href="https://metrobankcard.com/cardsservices/cash-2-go">https://metrobankcard.com/cardsservices/cash-2-go</a></li>
+</ul>
+Citibank
+<ul>
+ 	<li><a href="http://www.citibank.com.ph/gcb/creditcards/paylite_after_purchase.htm">http://www.citibank.com.ph/gcb/creditcards/paylite_after_purchase.htm</a></li>
+ 	<li><a href="https://www.citibank.com.ph/gcb/pap/paylite-after-purchase.html">https://www.citibank.com.ph/gcb/pap/paylite-after-purchase.html</a></li>
+</ul>
+PNB/Allied bank
+<ul>
+ 	<li><a href="https://www.pnbcards.com.ph/images/forms/Transaction%20Conversion%20Form.pdf">https://www.pnbcards.com.ph/images/forms/Transaction%20Conversion%20Form.pdf</a></li>
+</ul>
+HSBC
+<ul>
+ 	<li><a href="https://www.hsbc.com.ph/1/2/personal/credit/balance-conversion#page=tab-1">https://www.hsbc.com.ph/1/2/personal/credit/balance-conversion#page=tab-1</a></li>
+</ul>
+RCBC
+<ul>
+ 	<li><a href="http://www.rcbcbankard.com/card-benefits/easyterms-installment/">http://www.rcbcbankard.com/card-benefits/easyterms-installment/</a></li>
+</ul>
+Chinabank
+<ul>
+ 	<li><a href="http://www.chinabank.ph/creditcards.aspx?title=China+Bank+Transaction+Conversion+Program">http://www.chinabank.ph/creditcards.aspx?title=China+Bank+Transaction+Conversion+Program</a></li>
+</ul>
+[/vc_column_text][/vc_tta_section][vc_tta_section title="Do you offer discount for the item/s I will purchase?" tab_id="1542293365531-335aafb6-eebf"][vc_column_text]<strong>Facebook Share Discount</strong>
+
+Avail a total of 5% discount by simply logging <span class="GINGER_SOFATWARE_correct">into</span> your Facebook account through our website and rate us on our FB page (https://www.facebook.com/pg/Galleon.ph/reviews/?ref=page_internal). Then send a screenshot of your rate on our Facebook page to our email so we can apply the discount manually.
+
+<strong>Facebook Rate discount</strong>
+
+If you have a previous order on Galleon, you may avail 5% discount if you will give us a good rate on Facebook. Click here: https://www.facebook.com/pg/Galleon.ph/reviews/?ref=page_internal
+
+<strong>Free Local Shipping Fee (Metro Manila rate)</strong>
+
+Free Local Shipping Fee for items worth Php 5,000 and above[/vc_column_text][/vc_tta_section][vc_tta_section title="Do you issue a receipt?" tab_id="1542293437762-c78757f7-08f9"][vc_column_text]Yes we do. Since we are categorized as a service company, we issue an Official Receipt for our service fee which is 30% of the sum of the price of the item (what is shown on the product page) and the international shipping cost. We will also issue a Statement of Account (SOA) for the operational costs of the item/order. The 100% amount you paid will be reflected on SOA only. Both documents are authorized by the BIR. We provide an OR upon full payment only.[/vc_column_text][/vc_tta_section][/vc_tta_accordion][/vc_column][vc_column width="1/2" css=".vc_custom_1534495331601{margin-left: 30px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.25rem !important;padding-right: 1.25rem !important;padding-bottom: 1.25rem !important;padding-left: 1.25rem !important;background-color: #ffffff !important;border-left-color: #eeeeee !important;border-left-style: solid !important;border-right-color: #eeeeee !important;border-right-style: solid !important;border-top-color: #eeeeee !important;border-top-style: solid !important;border-bottom-color: #eeeeee !important;border-bottom-style: solid !important;}" klb_responsive=".vc_custom_1534495331604{margin-right: 0px !important;margin-left: 0px !important;}" el_class="faq" offset="vc_col-lg-5 vc_col-md-5"][vc_custom_heading text="Ask us a question" font_container="tag:h5|font_size:18|text_align:left" use_theme_fonts="yes" css=".vc_custom_1534495168730{margin-bottom: 14px !important;}"][contact-form-7 id="214"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1533636970064{border-top-width: 1px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #ffffff !important;border-top-color: #eeeeee !important;border-top-style: solid !important;}"][vc_column width="1/3" klb_responsive=".vc_custom_1534495399990{margin-bottom: 15px !important;}"][icon_box type="materialdesign" title="Free &amp; Next Day Delivery" contentm="Lorem ipsum dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-truck-fast"][/vc_column][vc_column width="1/3" klb_responsive=".vc_custom_1534495407796{margin-bottom: 15px !important;}"][icon_box type="materialdesign" title="100% Satisfaction Guarantee" contentm="Rorem Ipsum Dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-basket"][/vc_column][vc_column width="1/3"][icon_box type="materialdesign" title="Great Daily Deals Discount" contentm="Lorem ipsum dolor sit amet, cons..." icon_ion="mdi mdi-accusoft" icon_materialdesign="mdi mdi-tag-heart"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 
 </div>
+[/vc_column_text][/vc_column][/vc_row]
