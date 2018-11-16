@@ -4,7 +4,7 @@ post_title: Home
 author: galleon
 post_excerpt: ""
 layout: page
-permalink: https://www.galleon.com.ph/
+permalink: https://www.galleon.ph/
 published: true
 post_date: 2018-08-04 11:32:49
 ---
