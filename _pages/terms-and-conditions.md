@@ -18,7 +18,7 @@ By accepting this Terms and Conditions, the User has accepted and agreed to be b
 <ul>
  	<li>Cancellations, Returns and Refunds</li>
  	<li><a href="https://galleon.com.ph/privacy-policy/">Privacy Policy</a></li>
- 	<li>Restricted Items</li>
+ 	<li><a href="https://galleon.com.ph/restricted-items/">Restricted Items</a></li>
 </ul>
 The use of this Website affirms that the Website user is at least 18 years of age. Persons who are not capable of forming binding legal contracts (i.e. minors) and wish to make a transaction, the parents or legal guardian should make the transaction on his behalf. This should be made possible with the parent or the legal guardian registering in the Website prior to purchase. We reserve the rights to terminate any account should we discover that the user is a minor. For business entities who wish to enter into a transaction, a duly authorized representative can register on the entity’s behalf granted that this person is of legal age and are duly authorized by the entity to from binding contracts with the Company.
 
