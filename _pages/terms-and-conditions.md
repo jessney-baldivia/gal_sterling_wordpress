@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-12-04 14:09:19
 ---
-<h3>Terms and Conditions of Use</h3>
+<h2>Terms and Conditions of Use</h2>
 The use of Galleon.ph (herein referred to as the "Website", "Us") is governed by these terms and conditions ("Terms and Conditions"). This Terms and Conditions will take effect on the 28th of June, 2012. Sterling Galleon Corporation (herein referred to as "Company", "We", "Us", "Our") is a Philippine-based e-commerce company situated at UG 09 Globe Telecom Pioneer Cor. Madison Baranga Ilaya Mandaluyong City, Philippines.
 
 You (herein known as "User", "Users", "Client", "They", "Customer", "Customers" ) are a person of legal age who has agreed to become a member of the Website by providing required data (referred to as the "User ID", "Password", Registration Data"). Each user is designated a unique identification (username and password) and thus accepts the Terms and Conditions delineated hereunder.
@@ -43,7 +43,7 @@ Users must also agree and accept the guidelines set forth in this Terms and Cond
  	<li class="number-li-style">All materials, including, but not limited to, images, texts, trademarks, logos, designs, photographs, music, videos, and slogans are owned and licensed by Galleon.ph. The use of this Website for personal purposes is a breach of its copyright, and is prohibited without written permission to the Company.</li>
  	<li class="number-li-style">The use of this Website affirms that a user will fully comply with all applicable laws, rules, and regulations set forth in the Republic of the Philippines.</li>
 </ul>
-<h3>Disputes and Arbitration</h3>
+<h2>Disputes and Arbitration</h2>
 This Terms and Conditions is governed, and thus can only be interpreted, by the existing laws of the Republic of the Philippines. Any claims and disputes arising from or use of this Terms and Conditions will be addressed and settled in a confidential arbitration to be held in Manila, Philippines. The arbitrator must be (i) legally trained; (ii) independent of either party; and (iii) must have experience in the Information Technology and E-commerce fields in the country. Each party agrees to yield to the jurisdiction of courts of the Republic of the Philippines.
 
 <strong>By making available any Content (Images, Text) through the Site, Application or Services, we do not claim any ownership or rights to the same. This content belongs to amazon.com and its content suppliers.</strong>
